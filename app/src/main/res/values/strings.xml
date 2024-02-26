@@ -1,14 +1,16 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">ERLISJA</string>
+    <string name="last_name">KORE</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Welcome to my profile!\n I am a master student at Temple University!\n
+        I am studying Information Science and Technology!\nI have a degree in Physics Engineering and I love
+        technology</string>
 
-    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_header_text">HOBBIES:</string>
+    <string name="profile_hobby_first_text">🥇 Learning new stuff</string>
+    <string name="profile_hobby_second_text">🥈 Playing the piano</string>
+    <string name="profile_hobby_third_text">🥉 Spending time outside</string>
 </resources>
